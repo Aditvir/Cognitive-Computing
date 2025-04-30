@@ -1,0 +1,11 @@
+WRITEUP DESCRIBING THE PROJECT :
+
+This project is a classification model built using the Landing AI platform, focused on identifying F1 teams based on car images. 
+It uses labeled images of F1 cars from 10 different teams, where each image represents a specific team. The model is trained to 
+analyze the visual features of the cars and accurately predict the corresponding team. When given a new image, it correctly 
+classifies the car by its team based on its appearance. This showcases the potential of image-based classification in 
+motorsports analytics.
+
+SCREENSHOTS :
+
+SCREEENSHOTS 1 : PROJECT CREATION PAGE 
